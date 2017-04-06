@@ -1,14 +1,14 @@
 # Bayesian-Data-Analysis
 
-1 Probability and inference<br>
-2 Single-parameter models<br>
-3 Introduction to multiparameter models<br>
-4 Asymptotics and connections to non-Bayesian approaches<br>
-5 Hierarchical models<br>
-6 Model checking<br>
-7 Evaluating, comparing, and expanding models<br>
-8 Modeling accounting for data collection<br>
-9 Decision analysis<br>
+1  Probability and inference<br>
+2  Single-parameter models<br>
+3  Introduction to multiparameter models<br>
+4  Asymptotics and connections to non-Bayesian approaches<br>
+5  Hierarchical models<br>
+6  Model checking<br>
+7  Evaluating, comparing, and expanding models<br>
+8  Modeling accounting for data collection<br>
+9  Decision analysis<br>
 10 Introduction to Bayesian computation<br>
 11 Basics of Markov chain simulation<br>
 12 Computationally efficient Markov chain simulation<br>
@@ -30,5 +30,4 @@
 -texのフォルダー(tex)<br>
 -Pythonコード(code)<br>
 -レファレンスのpdfとか(reference)<br>
-
-とかはどうでしょうか?
+って感じで
