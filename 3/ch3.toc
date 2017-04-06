@@ -1,0 +1,8 @@
+\beamer@sectionintoc {3}{3.1 Averaging over ‘nuisance parameters’}{6}{0}{1}
+\beamer@sectionintoc {4}{3.2 Normal data with a noninformative prior distribution}{8}{0}{2}
+\beamer@sectionintoc {5}{3.3 Normal data with a conjugate prior distribution}{20}{0}{3}
+\beamer@sectionintoc {6}{3.4 Multinomial model for categorical data}{27}{0}{4}
+\beamer@sectionintoc {7}{3.5 Multivariate normal model with known variance}{31}{0}{5}
+\beamer@sectionintoc {8}{3.6 Multivariate normal with unknown mean and variance}{37}{0}{6}
+\beamer@sectionintoc {9}{3.7 Example: analysis of a bioassay experiment}{41}{0}{7}
+\beamer@sectionintoc {10}{3.8 Summary of elementary modeling and computation}{53}{0}{8}

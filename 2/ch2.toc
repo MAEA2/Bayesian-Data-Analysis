@@ -1,0 +1,9 @@
+\beamer@sectionintoc {3}{2.1 Estimating a probability from binomial data}{5}{0}{1}
+\beamer@sectionintoc {4}{2.2 Posterior as compromise between data and prior information}{12}{0}{2}
+\beamer@sectionintoc {5}{2.3 Summarizing posterior inference}{14}{0}{3}
+\beamer@sectionintoc {6}{2.4 Informative prior distributions}{18}{0}{4}
+\beamer@sectionintoc {7}{2.5 Estimating a normal mean with known variance}{33}{0}{5}
+\beamer@sectionintoc {8}{2.6 Other standard single-parameter models}{42}{0}{6}
+\beamer@sectionintoc {9}{2.7 Example: informative prior distribution for cancer rates}{54}{0}{7}
+\beamer@sectionintoc {10}{2.8 Noninformative prior distributions}{65}{0}{8}
+\beamer@sectionintoc {11}{2.9 Weakly informative prior distributions}{76}{0}{9}

@@ -1,0 +1,5 @@
+\beamer@sectionintoc {3}{4.1 Normal approximations to the posterior distribution}{5}{0}{1}
+\beamer@sectionintoc {4}{4.2 Large-sample theory}{15}{0}{2}
+\beamer@sectionintoc {5}{4.3 Counterexamples to the theorems}{20}{0}{3}
+\beamer@sectionintoc {6}{4.4 Frequency evaluations of Bayesian inferences}{28}{0}{4}
+\beamer@sectionintoc {7}{4.5 Bayesian interpretations of other statistical methods}{33}{0}{5}

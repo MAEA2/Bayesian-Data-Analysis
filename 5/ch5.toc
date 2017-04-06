@@ -1,0 +1,2 @@
+\beamer@sectionintoc {3}{5.1 Constructing a parameterized prior distribution}{7}{0}{1}
+\beamer@sectionintoc {4}{5.2 Exchangeability and setting up hierarchical models}{13}{0}{2}
