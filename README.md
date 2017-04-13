@@ -1,5 +1,5 @@
 # Bayesian Data Analysis
-
+<hr>
 1,  Probability and inference<br>
 2,  Single-parameter models<br>
 3,  Introduction to multiparameter models<br>
@@ -23,5 +23,5 @@
 21, Gaussian process models<br>
 22, Finite mixture models<br>
 23, Dirichlet process models<br>
-
+<hr>
 <img src="https://images-na.ssl-images-amazon.com/images/I/51X9jo470bL._SX325_BO1,204,203,200_.jpg">
