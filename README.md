@@ -1,12 +1,10 @@
-# Bayesian-Data-Analysis
+# Bayesian Data Analysis
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51X9jo470bL._SX325_BO1,204,203,200_.jpg">
-
-1,  Probability and inference	山崎<br>
-2,  Single-parameter models	山崎<br>
-3,  Introduction to multiparameter models	山崎<br>
-4,  Asymptotics and connections to non-Bayesian approaches	山崎<br>
-5,  Hierarchical models	山崎<br>
+1,  Probability and inference<br>
+2,  Single-parameter models<br>
+3,  Introduction to multiparameter models<br>
+4,  Asymptotics and connections to non-Bayesian approaches<br>
+5,  Hierarchical models<br>
 6,  Model checking<br>
 7,  Evaluating, comparing, and expanding models<br>
 8,  Modeling accounting for data collection<br>
@@ -26,3 +24,4 @@
 22, Finite mixture models<br>
 23, Dirichlet process models<br>
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/51X9jo470bL._SX325_BO1,204,203,200_.jpg">
