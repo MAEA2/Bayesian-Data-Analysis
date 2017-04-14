@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2017.3.19)  9 APR 2017 17:22
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2017.3.19)  15 APR 2017 02:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1199,59 +1199,59 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 ] [3
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 8
-3.
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 9
+2.
  (c:/w32tex/share/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 92.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 92.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 83.
-LaTeX Font Info:    Try loading font information for U+msa on input line 83.
+(Font)              scaled to size 5.5pt on input line 92.
+LaTeX Font Info:    Try loading font information for U+msa on input line 92.
 
 (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 83.
+LaTeX Font Info:    Try loading font information for U+msb on input line 92.
 
 (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 83.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 92.
 
 
 (c:/w32tex/share/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 83.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 92.
 
 
 (c:/w32tex/share/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 83.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 92.
 
 
 (c:/w32tex/share/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 92.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 92.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 5.5pt on input line 83.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 83.
+(Font)              scaled to size 5.5pt on input line 92.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 92.
 
 (c:/w32tex/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 83.
+(Font)              size <5> substituted on input line 92.
 
 [4
 
@@ -1263,9 +1263,9 @@ LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.5> not available
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 131.
+(Font)              scaled to size 7.3pt on input line 141.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 131.
+(Font)              scaled to size 5.5pt on input line 141.
  [8
 
 ] [9
@@ -1275,14 +1275,18 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 ] [11
 
 ]
-Overfull \vbox (0.45576pt too high) detected at line 198
+Overfull \vbox (0.50328pt too high) detected at line 208
  []
 
 [12
 
 ] [13
 
-] [14
+]
+Overfull \vbox (0.50328pt too high) detected at line 237
+ []
+
+[14
 
 ] [15
 
@@ -1308,18 +1312,26 @@ Overfull \vbox (0.45576pt too high) detected at line 198
 
 ] [26
 
-]
-[27
+] [27
 
 ] [28
 
-] [29
+]
+[29
 
 ] [30
 
-] [31
+]
+Overfull \vbox (5.6364pt too high) detected at line 481
+ []
 
-] [32
+[31
+
+]
+Overfull \vbox (5.33807pt too high) detected at line 497
+ []
+
+[32
 
 ] [33
 
@@ -1327,7 +1339,11 @@ Overfull \vbox (0.45576pt too high) detected at line 198
 
 ] [35
 
-] [36
+]
+Overfull \vbox (8.38356pt too high) detected at line 560
+ []
+
+[36
 
 ] [37
 
@@ -1339,10 +1355,14 @@ Overfull \vbox (0.45576pt too high) detected at line 198
 
 ] [41
 
-]
-[42
+] [42
 
-] [43
+]
+Overfull \hbox (24.47406pt too wide) in paragraph at lines 668--668
+ [][][] 
+ []
+
+[43
 
 ] [44
 
@@ -1354,9 +1374,17 @@ Overfull \vbox (0.45576pt too high) detected at line 198
 
 ] [48
 
-] [49
+]
+Overfull \vbox (13.96738pt too high) detected at line 753
+ []
 
-] [50
+[49
+
+]
+Overfull \vbox (9.59224pt too high) detected at line 774
+ []
+
+[50
 
 ] [51
 
@@ -1370,14 +1398,21 @@ Overfull \vbox (0.45576pt too high) detected at line 198
 
 ] [56
 
-]
-[57
+] [57
 
 ] [58
 
-] [59
+]
+Overfull \vbox (5.34703pt too high) detected at line 895
+ []
 
-] [60
+[59
+
+]
+Overfull \vbox (0.2467pt too high) detected at line 912
+ []
+
+[60
 
 ] [61
 
@@ -1401,10 +1436,65 @@ Overfull \vbox (0.45576pt too high) detected at line 198
 
 ] [71
 
-]
-[72
+] [72
 
 ] [73
+
+] [74
+
+]
+Overfull \vbox (8.77106pt too high) detected at line 1108
+ []
+
+[75
+
+] [76
+
+] [77
+
+] [78
+
+] [79
+
+] [80
+
+] [81
+
+] [82
+
+] [83
+
+] [84
+
+] [85
+
+]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 1263.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 1263.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 1263.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 1263.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 8.8pt on input line 1263.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 6.6pt on input line 1263.
+ [86
+
+] [87
+
+] [88
+
+] [89
+
+]
+[90
+
+] [91
+
+] [92
 
 ]
 \tf@nav=\write6
@@ -1416,13 +1506,14 @@ Overfull \vbox (0.45576pt too high) detected at line 198
 \tf@snm=\write8
 \openout8 = `ch5.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 540.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 540.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1354.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1354.
  (./ch5.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 540.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 540.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1354.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1354.
+
 Package rerunfilecheck Info: File `ch5.out' has not changed.
-(rerunfilecheck)             Checksum: 30873A5DA49E7078B274836DD9C9559C;175.
+(rerunfilecheck)             Checksum: D37A3F82737108FCF8A1C0983369E21A;636.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1433,12 +1524,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20314 strings out of 493671
- 370378 string characters out of 6151254
- 450133 words of memory out of 5000000
- 23363 multiletter control sequences out of 15000+600000
- 54857 words of font info for 98 fonts, out of 8000000 for 9000
+ 20414 strings out of 493671
+ 371598 string characters out of 6151254
+ 455914 words of memory out of 5000000
+ 23462 multiletter control sequences out of 15000+600000
+ 73427 words of font info for 142 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  48i,15n,68p,771b,585s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on ch5.dvi (73 pages, 691556 bytes).
+Output written on ch5.dvi (92 pages, 1005672 bytes).
