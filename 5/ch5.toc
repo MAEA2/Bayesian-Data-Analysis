@@ -1,8 +1,0 @@
-\beamer@sectionintoc {3}{5.1 Constructing a parameterized prior distribution}{7}{0}{1}
-\beamer@sectionintoc {4}{5.2 Exchangeability and setting up hierarchical models}{14}{0}{2}
-\beamer@sectionintoc {5}{5.3 Fully Bayesian analysis of conjugate hierarchical models}{29}{0}{3}
-\beamer@sectionintoc {6}{5.4 Estimating exchangeable parameters from a normal model}{42}{0}{4}
-\beamer@sectionintoc {7}{まとめ 5.4}{60}{0}{5}
-\beamer@sectionintoc {8}{5.5 Example: parallel experiments in eight schools}{61}{0}{6}
-\beamer@sectionintoc {9}{5.6 Hierarchical modeling applied to a meta-analysis}{72}{0}{7}
-\beamer@sectionintoc {10}{5.7 Weakly informative priors for hierarchical variance parameters}{85}{0}{8}
