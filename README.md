@@ -1,12 +1,12 @@
 # Bayesian Data Analysis
 <hr>
-1,  Probability and inference<br>
-2,  Single-parameter models<br>
-3,  Introduction to multiparameter models<br>
-4,  Asymptotics and connections to non-Bayesian approaches<br>
-5,  Hierarchical models<br>
-6,  Model checking<br>
-7,  Evaluating, comparing, and expanding models<br>
+1,  Probability and inference 4/28Y<br>
+2,  Single-parameter models 4/28Y<br>
+3,  Introduction to multiparameter models 5/12Y<br>
+4,  Asymptotics and connections to non-Bayesian approaches 5/12Y<br>
+5,  Hierarchical models 5/12Y<br>
+6,  Model checking 5/19K<br>
+7,  Evaluating, comparing, and expanding models 5/26M<br>
 8,  Modeling accounting for data collection<br>
 9,  Decision analysis<br>
 10, Introduction to Bayesian computation<br>
